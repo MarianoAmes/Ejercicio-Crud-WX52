@@ -1,0 +1,32 @@
+{
+    "movies":[
+        {
+            "id": "1",
+            "name": "Avengers",
+            "photo": "",
+            "duracion": "2h",
+            "genero":"Accion"
+        },
+        {
+            "id": "2",
+            "name": "Avatar",
+            "photo": "",
+            "duracion": "2h30m",
+            "genero":"Sci-fi"
+        },
+        {
+            "id": "3",
+            "name": "Los juegos del hambre",
+            "photo": "",
+            "duracion": "1h50m",
+            "genero":"Accion"
+        },
+        {
+            "id": "4",
+            "name": "Spiderman",
+            "photo": "",
+            "duracion": "2h30m",
+            "genero":"Accion"
+        }
+    ]
+}
